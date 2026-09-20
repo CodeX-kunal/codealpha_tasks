@@ -1,0 +1,13 @@
+name,email,phone,address
+John Smith,john.smith@example.com,+1 555-123-4567,12 Park Avenue New York
+Priya Sharma,priya.sharma@example.com,9876543210,Sector 62 Noida
+JOHN  SMITH,JOHN.SMITH@example.com,(555) 123-4567,"12 Park Avenue, New York"
+Jon Smith,john.smith@example.com,5551234567,12 Park Avenue New York
+John Smith,jsmith.work@example.com,5559998888,400 Market Street San Francisco
+Amit Verma,amit.verma@example.com,9123456780,DLF Phase 3 Gurgaon
+Amit Verma,amit.v@example.org,9000011111,Baner Road Pune
+Rahul Mehta,not-an-email,9811122233,Andheri Mumbai
+Sara Khan,sara.khan@example.com,12345,Hyderabad
+Neha Gupta,neha.gupta@example.com,9988776655,Koramangala Bangalore
+Riya Gupta,riya.gupta@example.com,9988776655,Koramangala Bangalore
+Priya Sharma,priya.sharma@example.com,9876543210,Sector 62 Noida
